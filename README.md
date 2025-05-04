@@ -25,5 +25,5 @@ image is a cat or a buffalo.
 
 Trained for 20 epochs with `CrossEntropyLoss` and Adam (`lr=1e-3`).
 
-## Author
-*Your Name* – [@s1rlvk](https://github.com/S1rlvk)
+
+ – [@s1rlvk](https://github.com/S1rlvk)
